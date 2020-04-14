@@ -12,5 +12,6 @@ This is the first project I made as a final project for my first javascript cour
 
 You have to clone or download the project and then open the `index.html` file to play the Snake Game. 
 
-## Author
-- Itziar Urbieta
+## Authors
+
+* **Itziar Urbieta** (https://github.com/ThisIsItz)
